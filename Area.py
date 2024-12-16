@@ -1,0 +1,5 @@
+num1 = int(input("Enter the Length: "))
+num2 = int(input("Enter the Breadth: "))
+print("Area: ", num1*num2)
+print("Average: ",(num1+num2)/2 )
+print("The answer is", num1>=num2)
